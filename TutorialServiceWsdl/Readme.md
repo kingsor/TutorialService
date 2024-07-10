@@ -12,5 +12,5 @@ svcutil.exe .\\TutorialService.wsdl
 
 ```
 
-that generates `TutorialService.cs` file.
+that generates `TutorialService.cs` and `output.config` files.
 
